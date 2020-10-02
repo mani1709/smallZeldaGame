@@ -10,3 +10,6 @@ Controls:
 	Enter near Pots: hold pot
 	Enter with pot held: throw pot
 	M: Minimap
+
+
+Starts when dragging the folder to the Love2d.exe
